@@ -1,0 +1,4 @@
+sudo npm i nativefier -g
+nativefier https://www.messenger.com -p linux
+./Messenger.com
+nativefier https://www.messenger.com -p linux --inject dark.css
